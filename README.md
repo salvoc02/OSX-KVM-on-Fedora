@@ -1,6 +1,8 @@
 # OSX-KVM
 Come installare MacOS su una macchina virtuale, da linux
 
+PS: questa guida è stata testata su fedora, quindi alcuni comandi da terminale e alcuni nomi dei pacchetti potrebbero variare se state usando un'altra versione di linux.
+
 # Installare il necessario:
 
 Installare le librerie necessarie
