@@ -5,7 +5,7 @@ PS: questa guida è stata testata su fedora, quindi alcuni comandi da terminale 
 
 # Installare il necessario:
 
-Installare le librerie necessarie
+Librerie:
 ```
 $ sudo dnf install virt-manager
 $ sudo dnf install libvirt-daemon qemu qemu-img python3 python3-pip git
@@ -16,6 +16,7 @@ Abilitare libvirt:
 $ sudo systemctl enable libvirtd
 $ sudo systemctl enable libvirtd
 ```
+
 File necessari:
 ```
 $ git clone https://github.com/foxlet/macOS-Simple-KVM.git
