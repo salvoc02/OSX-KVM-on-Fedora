@@ -25,5 +25,6 @@ $ git clone https://github.com/corpnewt/gibMacOS.git
 
 # Scaricare immagine macos
 
+
 ```
 $ cd gibMacOS
